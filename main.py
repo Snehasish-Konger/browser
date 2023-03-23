@@ -13,7 +13,7 @@ class MainWindow(QMainWindow):
 
         self.setWindowTitle('PyBro')
         # set a custom icon for the window
-        self.setWindowIcon(QIcon('icons/icon.png'))
+        self.setWindowIcon(QIcon('icon.png'))
 
         self.tabs = QTabWidget()
         self.tabs.setTabsClosable(True)
