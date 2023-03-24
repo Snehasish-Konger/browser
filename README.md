@@ -1,16 +1,19 @@
 # PyBro
 
 PyBro is a simple web browser built with Python and PyQt5. It allows you to open multiple tabs, navigate to different websites, and play videos.
+
 Step-by-step guide available at https://scientyficworld.org/how-to-build-a-browser-using-python/
 
 ## Getting Started
 
 To get started with PyBro, clone the repository and install the required dependencies using pip:
+
 `pip install PyQt5 PyQtWebEngine`
 
 ## Usage
 
 To run the browser, simply run the `main.py` file:
+
 `$ python main.py`
 
 
@@ -30,6 +33,6 @@ When a new tab is added, a QWebEngineView widget is created and added to the QTa
 
 When a tab is closed, PyBro first checks if the tab contains a video player. If it does, the video is stopped before the tab is closed. If the tab was the last tab open, the entire application is closed.
 
-## License
+## About using the code:
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
+The code for this project is open to all. Anyone can use this code and build their own browser and also if some wants to add features to this code/ our browser, they can do that freely.
