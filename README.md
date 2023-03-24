@@ -1,6 +1,7 @@
 # PyBro
 
 PyBro is a simple web browser built with Python and PyQt5. It allows you to open multiple tabs, navigate to different websites, and play videos.
+Step-by-step guide available at https://scientyficworld.org/
 
 ## Getting Started
 
