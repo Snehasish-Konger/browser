@@ -34,7 +34,7 @@ When a new tab is added, a QWebEngineView widget is created and added to the QTa
 When a tab is closed, PyBro first checks if the tab contains a video player. If it does, the video is stopped before the tab is closed. If the tab was the last tab open, the entire application is closed.
 
 ## Output
-browser.webm
+[browser.webm](https://github.com/Snehasish-Konger/browser/assets/87180847/c90251fe-3a0b-43bc-9311-d2cafc9bf5f9)
 
 ## About using the code:
 
